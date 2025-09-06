@@ -1,5 +1,5 @@
 /*
- *Name: Dominic Pressler
+ *Name: Linn
  *Description: Finding the Fibonacci Sequence of the user inputted number
  *Date: 09/02/25
 */
